@@ -8,7 +8,7 @@
 
 ### 4. [Our Team](#our-team)
 
-### [👀Project Details (go to wiki)](https://lab.ssafy.com/s06-s-project/S06P21S001/-/wikis/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D)
+<!-- ### [👀Project Details (go to wiki)](https://lab.ssafy.com/s06-s-project/S06P21S001/-/wikis/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D) -->
 
 ---
 
@@ -30,6 +30,36 @@
 ## 💻 **Project Period - [2021.02.21 ~ 2021.04.08]**
 
 <br>
+
+## 💡**Motivation**
+
+최근 들어 주식에 대한 관심이 급증했으며 작년 동안 유입된 신규 투자자만 400만명에 다다릅니다.<br>그리고 이들은 주식에 대한 지식과 경험이 부족했고, 대부분 투자를 실패했습니다.
+
+이는 안정적인 주식 투자를 위한 러닝 커브는 높고, 이를 학습할 플랫폼은 부족하기 때문입니다.
+
+그래서 저희는 주식에 입문하며, 주식에 대해 잘 모르는 소액 투자자들 일명 개미, 주린이들이 <br>안전하고 효과적으로 주식 투자를 공부할 수 있도록 매매 전략을 학습하고, 직접 구성한 전략을 테스트할 수 있는 서비스를 개발했습니다.
+
+## 💫**Service Architecture**
+
+![Untitled](README_assets/Untitled%201.png)
+
+## 📜**Functional Specification**
+
+[JRStock 기능명세서.pdf](README_assets/JRStock_%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
+
+## 🖼️**Figma Wireframe**
+
+![화면설계서_초안2.png](README_assets/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C_%EC%B4%88%EC%95%882.png)
+
+## 🔗**ERD**
+
+![ERD.png](README_assets/JRStock_ERD.png)
+
+## ✨**Sequence Diagram**
+
+### 백테스트 시퀀스 다이어그램
+
+![backtest_sequence_diagram.PNG](README_assets/backtest_sequence_diagram.PNG)
 
 ## 💡**Main Function**
 
